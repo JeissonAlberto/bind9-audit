@@ -1,0 +1,17 @@
+# Reportes generados (mantener directorio pero no los archivos)
+reports/*.txt
+reports/*.json
+reports/*.html
+reports/*.log
+
+# Logs
+*.log
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# macOS
+.DS_Store
